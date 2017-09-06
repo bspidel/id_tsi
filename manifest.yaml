@@ -1,0 +1,87 @@
+---
+
+dublin_core:
+  conformsto: 'rc0.2'
+  contributor:
+    - 'Door43 World Missions Community'
+  creator: 'Door43 World Missions Community'
+  description: "An open-licensed translated into Indonesian, intended to provide a 'form-centric' understanding of the Bible. It increases the translator's understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals."
+  format: 'text/usfm'
+  identifier: 'ulb'
+  issued: ''
+  language:
+    direction: 'ltr'
+    identifier: 'id'
+    title: 'Indonesian'
+  modified: '2017-09-05'
+  publisher: 'unfoldingWord'
+  relation:
+    - 'id/tw'
+    - 'id/tq'
+    - 'id/tn'
+  rights: 'CC BY-SA 4.0'
+  source:
+    -
+      identifier: ''
+      language: ''
+      version: ''
+  subject: 'Bible'
+  title: 'Unlocked Literal Bible'
+  type: 'bundle'
+  version: ''
+
+checking:
+  checking_entity:
+    - 'unfoldingWord'
+  checking_level: ''
+
+projects:
+
+  -
+    title: 'Ruth'
+    versification: 'ufw'
+    identifier: 'rut'
+    sort: 8
+    path: './08-RUT.usfm'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Mazmur'
+    versification: 'ufw'
+    identifier: 'maz'
+    sort: 19
+    path: './19-MAZ.usfm'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Daniel'
+    versification: 'ufw'
+    identifier: 'dan'
+    sort: 27
+    path: './27-DAN.usfm'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'yunus'
+    versification: 'ufw'
+    identifier: 'yun'
+    sort: 32
+    path: './32-YUN.usfm'
+    categories: [ 'bible-ot' ]
+
+  -
+    title: 'Markus'
+    versification: 'ufw'
+    identifier: 'mrk'
+    sort: 41
+    path: './42-MRK.usfm'
+    categories: [ 'bible-nt' ]
+
+  -
+    title: 'Lukas'
+    versification: 'ufw'
+    identifier: 'luk'
+    sort: 42
+    path: './43-LUK.usfm'
+    categories: [ 'bible-nt' ]
+
